@@ -1,0 +1,121 @@
+{
+  "questions": [
+    {
+      "question": "What is Android?",
+      "options": ["Operating System", "Frame Work", "Library", "Application"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is activity in android",
+      "options": ["Backend code", "User interface", "Networking", "Library"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is adapter in android?",
+      "options": [
+        "Child View",
+        "Storage class",
+        "Binds the parent to child view",
+        "Child View to represent parent view items"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is shared preferences in android?",
+      "options": [
+        "Store the data in android",
+        "Store the data in cloud",
+        "Transfer the from android to cloud",
+        "Transfer the from cloud to android"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the importance of setting permissions in app development?",
+      "options": [
+        "Protect data",
+        "Protect code",
+        "Protect data and code",
+        "None of the above"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What Storages are available in android",
+      "options": [
+        "Internal storage",
+        "External storage",
+        "SQLite database",
+        "All of the above"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which is modern language for developing android app?",
+      "options": ["Java", "Javascript", "Kotlin", "Flutter"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is Retrofit in Android?",
+      "options": [
+        "REST api Library",
+        "Api fetching frame work",
+        "Networking library",
+        "Image processing library"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How to find view element into the program?",
+      "options": [
+        "findViewByElement",
+        "findViewById",
+        "findViewByClass",
+        "findView"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "What is ADB stands for?",
+      "options": [
+        "Application Developement Board",
+        "Application Deployment Branch",
+        "Android Developement Bridge",
+        "Android Debugging Bridge"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "What is defined as a lightweight thread?",
+      "options": [
+        "MVVM architecture",
+        "Coroutines",
+        "Global Scope",
+        "Thread pooling"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "What does android serializable do?",
+      "options": [
+        "Passes view between activies",
+        "Passes api request between activites",
+        "Passes fragment between activities",
+        "Passes data between activities"
+      ],
+      "correctOption": 3,
+      "points": 30
+    }
+  ]
+}
